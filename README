@@ -1,0 +1,5 @@
+Solve the Lucifer riddle using only common Unix tools like sort, comm,
+join, sed, awk, factor, seq, and the shell sh.
+
+See http://de.wikipedia.org/wiki/Luzifer-R%C3%A4tsel for a description
+of the Lucifer riddle.
